@@ -165,7 +165,7 @@ function Timeline() {
                             >
                                 <h1>Valima</h1>
                                 <p>
-                                    On Monday, 12<sup>th</sup> July, 2023,
+                                    On Wednesday, 12<sup>th</sup> July, 2023,
                                     <br />
                                     23<sup>rd</sup> Zil-Hajjah, 1444 Hijri,
                                     <br />
