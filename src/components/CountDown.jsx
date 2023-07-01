@@ -4,7 +4,7 @@ import "../styles/CountDown.css";
 
 function CountDown() {
     // let date1 = new Date("2023 2 23 12:45 PM");
-    let date1 = Date.parse("2023-06-24T19:30:00");
+    let date1 = Date.parse("2023-07-10T19:30:00");
     const [duration, setDuration] = useState({});
 
     function getDuration() {

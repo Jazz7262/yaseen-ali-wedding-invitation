@@ -11,7 +11,19 @@ function Couple() {
 
                 <div className="row">
                     <div className="col-lg-5" data-aos="fade-up">
-                        <div
+                        <div className="img-wrapper">
+                            <img
+                                className="couple-img"
+                                src="../assets/images/groom.png"
+                                alt="couple_img"
+                            />
+                            <img
+                                className="flower groom-flower"
+                                src="../assets/images/golden-rose.png"
+                                alt="flower"
+                            />
+                        </div>
+                        {/* <div
                             id="carouselIndicators"
                             className="carousel slide"
                             data-interval="2000"
@@ -31,26 +43,6 @@ function Couple() {
                                     data-target="#carouselIndicators"
                                     data-slide-to="2"
                                 ></li>
-                                {/* <li
-                                    data-target="#carouselIndicators"
-                                    data-slide-to="3"
-                                ></li>
-                                <li
-                                    data-target="#carouselIndicators"
-                                    data-slide-to="4"
-                                ></li>
-                                <li
-                                    data-target="#carouselIndicators"
-                                    data-slide-to="5"
-                                ></li>
-                                <li
-                                    data-target="#carouselIndicators"
-                                    data-slide-to="6"
-                                ></li>
-                                <li
-                                    data-target="#carouselIndicators"
-                                    data-slide-to="7"
-                                ></li> */}
                             </ol>
                             <div className="carousel-inner">
                                 <div className="carousel-item active">
@@ -110,7 +102,7 @@ function Couple() {
                                 src="../assets/images/golden-rose.png"
                                 alt="flower"
                             />
-                        </div>
+                        </div> */}
                         <div className="info groom-info">
                             <h3>
                                 Mohammed Yaseen Ali Ahmed <sub>M.Tech.,</sub>
@@ -146,7 +138,19 @@ function Couple() {
                         />
                     </div>
                     <div className="col-lg-5" data-aos="fade-up">
-                        <div
+                        <div className="img-wrapper">
+                            <img
+                                className="couple-img"
+                                src="../assets/images/bride.png"
+                                alt="couple_img"
+                            />
+                            <img
+                                className="flower bride-flower"
+                                src="../assets/images/golden-rose.png"
+                                alt="flower"
+                            />
+                        </div>
+                        {/* <div
                             id="bride-carousel-indicators"
                             className="carousel slide"
                             data-interval="2000"
@@ -225,7 +229,7 @@ function Couple() {
                                 src="../assets/images/golden-rose.png"
                                 alt="flower"
                             />
-                        </div>
+                        </div> */}
                         <div className="info bride-info">
                             <h3>
                                 Noor -e- A'ayin <sub>B.Com.,</sub>
